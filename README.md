@@ -4,4 +4,6 @@ Today we say no to tests
 Hello World!
 Never gonna give you up
 
-I'm about to end this man's entire career
+It's time to make some conflicts!!!
+
+conflict resolved (off screen)
